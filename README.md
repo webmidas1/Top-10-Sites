@@ -1,6 +1,6 @@
 Top 10 Sites for your career
-* [Linkedin](https://www.linkedin.com)
-2. Indeed
+1. * [Linkedin](https://www.linkedin.com)
+2. *[Indeed](https://www.indeed.com/)
 3. Naukri
 4. Monster
 5. JobBait
@@ -23,19 +23,18 @@ Top 10 Sites for your career
 9. Blockchain
 10. IOT
 
-11 Sites for Free Online Education
+11 Sites for  Online Education
 
 1. Coursera
 2. edX
 3. Khan Academy
 4. Udemy
-5. iTunesU Free Courses
+5. JanBask Training
 6. MIT OpenCourseWare
 7. Stanford Online
 8. Codecademy
 9. ict iitr
-10 ict iitk
-11 NPTEL
+10. NPTEL
 
 10 Sites to learn Excel for free
 
