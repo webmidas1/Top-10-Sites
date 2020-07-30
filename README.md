@@ -12,16 +12,16 @@ Top 10 Sites for your career
 
 10 Tech Skills in demand
 
-1. Machine Learning
-2. Mobile Development
-3. SEO/SEM Marketing
-4. Data Visualization
-5. Data Engineering
-6. UI/UX Design
-7. Cyber-security
-8. Cloud Computing/AWS
-9. Blockchain
-10. IOT
+1. *[Machine Learning](https://www.janbasktraining.com/machine-learning)
+2. *[Mobile Development](https://en.wikipedia.org/wiki/Mobile_app_development)
+3. *[SEO/SEM Marketing](https://searchengineland.com/guide/what-is-seo)
+4. *[Data Visualization](https://www.kaggle.com/learn/data-visualization)
+5. *[Data Engineering](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811)
+6. *[UI/UX Design](https://www.coursera.org/specializations/ui-ux-design)
+7. *[Cyber-security](https://www.janbasktraining.com/blog/cissp-certification/)
+8. *[Cloud Computing/AWS](https://www.janbasktraining.com/aws-training)
+9. *[Blockchain](https://www.janbasktraining.com/blog/blockchain-tutorial/)
+10. *[IOT](https://builtin.com/internet-things)
 
 11 Sites for  Online Education
 
@@ -57,7 +57,7 @@ Top 10 Sites for your career
 4. *[VisualCV](https://www.visualcv.com/)
 5. *[Cvmaker](https://cvmkr.com/)
 6. *[ResumUP]
-7. *[Resume] Genius(https://resumegenius.com/)
+7. *[Resume Genius](https://resumegenius.com/)
 8. *[Resumebuilder](https://www.gotresumebuilder.com/)
 9. *[Resume Baker](http://www.resumebaker.com/)
 10. *[Enhancv](https://enhancv.com/)
