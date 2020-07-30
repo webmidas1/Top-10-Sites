@@ -47,20 +47,20 @@ Top 10 Sites for your career
 7. *[Mr. Excel](https://www.mrexcel.com/)
 8. *[Improve Your Excel](http://www.improveyourexcel.com/)
 9. *[Excel Easy](https://www.excel-easy.com/)
-10. [Excel Jet](https://exceljet.net/)
+10. *[Excel Jet](https://exceljet.net/)
 
 10 Sites to review your resume for free
 
-1. Zety Resume Builder
-2. Resumonk
-3. Resume dot com
-4. VisualCV
-5. Cvmaker
-6. ResumUP
-7. Resume Genius
-8. Resumebuilder
-9. Resume Baking
-10. Enhancy
+1. *[Zety Resume Builder](https://zety.com/)
+2. *[Resumonk](https://www.resumonk.com/)
+3. *[Resume dot com](https://www.resume.com/)
+4. *[VisualCV](https://www.visualcv.com/)
+5. *[Cvmaker](https://cvmkr.com/)
+6. *[ResumUP]
+7. *[Resume] Genius(https://resumegenius.com/)
+8. *[Resumebuilder](https://www.gotresumebuilder.com/)
+9. *[Resume Baker](http://www.resumebaker.com/)
+10. *[Enhancv](https://enhancv.com/)
 
 10 Sites for Interview Preparation
 
