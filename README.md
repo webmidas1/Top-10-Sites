@@ -8,7 +8,7 @@ Top 10 Sites for your career
 7. *[Dice](https://www.careercloud.com/)
 8. *[CareerBuilder](https://www.careerbuilder.com/)
 9. *[Jibberjobber](https://www.jibberjobber.com/login.php)
-10.*[Glassdoor](https://www.glassdoor.co.in/index.htm)
+10. *[Glassdoor](https://www.glassdoor.co.in/index.htm)
 
 10 Tech Skills in demand
 
