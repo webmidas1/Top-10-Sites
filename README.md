@@ -25,29 +25,29 @@ Top 10 Sites for your career
 
 11 Sites for  Online Education
 
-1. Coursera
-2. edX
-3. Khan Academy
-4. Udemy
-5. JanBask Training
-6. MIT OpenCourseWare
-7. Stanford Online
-8. Codecademy
-9. ict iitr
-10. NPTEL
+1. *[Coursera](https://www.coursera.org/)
+2. *[edX](https://www.edx.org/)
+3. *[Khan Academy](https://www.khanacademy.org/)
+4. *[Udemy](https://www.udemy.com/)
+5. *[JanBask Training](https://www.janbasktraining.com/)
+6. *[MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+7. *[Stanford Online](https://online.stanford.edu/)
+8. *[Codecademy](https://www.codecademy.com/)
+9. *[ict iitr](http://eict.iitr.ac.in/)
+10. *[NPTEL](https://nptel.ac.in/)
 
 10 Sites to learn Excel for free
 
-1. Microsoft Excel Help Center
-2. Excel Exposure
-3. Chandoo
-4. Excel Central
-5. Contextures
-6. Excel Hero b.
-7. Mr. Excel
-8. Improve Your Excel
-9. Excel Easy
-10. Excel Jet
+1. *[Microsoft Excel Help Center](https://www.inc.com/larry-kim/11-places-to-learn-microsoft-excel-for-free-that-w.html)
+2. *[Excel Exposure](https://excelexposure.com/)
+3. *[Chandoo](https://chandoo.org/)
+4. *[Excel Central](http://xl-central.com/)
+5. *[Contextures](https://www.contextures.com/)
+6. *[Excel Hero](http://www.excelhero.com/)
+7. *[Mr. Excel](https://www.mrexcel.com/)
+8. *[Improve Your Excel](http://www.improveyourexcel.com/)
+9. *[Excel Easy](https://www.excel-easy.com/)
+10. [Excel Jet](https://exceljet.net/)
 
 10 Sites to review your resume for free
 
@@ -64,13 +64,13 @@ Top 10 Sites for your career
 
 10 Sites for Interview Preparation
 
-1. Ambitionbox
-2. AceThelnterview
-3. Geeksforgeeks
-4. Leetcode
-5. Gainlo
-6. Careercup
-7. Codercareer
-8. InterviewUp
-9. InterviewBest
-10. Indiabix
+1. *[Ambitionbox](https://www.ambitionbox.com/)
+2. *[AceThelnterview](https://www.forbes.com/sites/jacquelynsmith/2013/01/11/how-to-ace-the-50-most-common-interview-questions/#111982904624)
+3. *[Geeksforgeeks](https://www.geeksforgeeks.org/)
+4. *[Leetcode](https://leetcode.com/)
+5. *[Gainlo](http://www.gainlo.co/#!/)
+6. *[Careercup](https://www.careercup.com/)
+7. *[Codercareer](https://codecareeracademy.com/)
+8. *[InterviewUp](https://www.interviewbit.com/)
+9. *[InterviewBest](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225)
+10. *[Indiabix](https://www.indiabix.com/)
