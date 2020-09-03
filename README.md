@@ -74,4 +74,29 @@ Top 10 Sites for your career
 8. *[InterviewUp](https://www.interviewbit.com/)
 9. *[InterviewBest](https://www.thebalancecareers.com/top-interview-questions-and-best-answers-2061225)
 10. *[Indiabix](https://www.indiabix.com/)
-10. *[Indiabix](https://www.indiabix.com/)
+
+11 Top SEO Tools of 2020
+
+1. *[Ahrefs](https://ahrefs.com/)
+2. *[Google Search Console](https://search.google.com/search-console/welcome)
+3. *[Moz](https://moz.com/)
+4. *[SpyFu](https://www.spyfu.com/)
+5. *[Woorank](https://www.woorank.com/)
+6. *[Majestic](https://majestic.com/)
+7. *[SEO Quake](https://www.seoquake.com/index.html)
+8. *[Site Liner](https://www.siteliner.com/)
+9. *[Uber Suggest](https://neilpatel.com/ubersuggest/)
+10. *[Sem Rush](https://www.semrush.com/)
+
+12  Top Sites to upgrade Tech Knowledge
+
+1. *[Gizmodo](https://gizmodo.com/)
+2. *[Engadget](https://www.engadget.com/)
+3. *[Janbask](https://www.janbasktraining.com/blog/)
+4. *[TheVerge](https://www.theverge.com/)
+5. *[Techmeme](https://www.techmeme.com/)
+6. *[Tech Crunch](https://techcrunch.com/)
+7. *[Forbes](https://www.forbes.com/#712ce4bb2254)
+8. *[Wired](https://www.wired.com/)
+9. *[The Nex Web](https://thenextweb.com/)
+10.*[Tuts+](https://code.tutsplus.com/)
